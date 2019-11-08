@@ -1,3 +1,8 @@
+#### Name: [AMAN PRATEEK](https://github.com/amanprateek123)
+- Place: India
+- Bio: Second year Computer Science Student in NIT Hamirpur <3
+- GitHub: [amanprateek123](https://github.com/amanprateek123)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
